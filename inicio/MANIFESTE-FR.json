@@ -1,0 +1,90 @@
+{
+  "produit": "Atlas visuel des coupes féminines",
+  "marche": "France",
+  "langue": "fr-FR",
+  "prix_eur": "19.99",
+  "garantie_jours": 7,
+  "achat": "https://pay.hotmart.com/H108233973U?checkoutMode=10",
+  "suivi_publicitaire": "UTMify après consentement explicite uniquement",
+  "pixel_utmify": "6adcf30e0a3295fab49502f5",
+  "reception_evenements": "non testée",
+  "source_structure": "https://schnittatlas.vercel.app/",
+  "date_mise_a_jour": "2026-10-28",
+  "fichiers": [
+    {
+      "fichier": "assets/app.js",
+      "octets": 3670,
+      "sha256": "294d22cb460da17e2d459e1795e2de7e84ba0aa3a0dad8b16f910feb040b5677"
+    },
+    {
+      "fichier": "assets/bonus-1.webp",
+      "octets": 370662,
+      "sha256": "3b2c7de191303336859cddb8cc3c37d0a101372d042eb87607fb7ea4975a8ce6"
+    },
+    {
+      "fichier": "assets/bonus-2.webp",
+      "octets": 371578,
+      "sha256": "a0a5601d00f8eef7c3bafdcf4f3704018bc0c6937aca03ab57128331af0f4767"
+    },
+    {
+      "fichier": "assets/bonus-3.webp",
+      "octets": 400360,
+      "sha256": "ae3d9ce668b2012252d6cf9744bf3a7a708eebdacfbe90d653021b603adb1503"
+    },
+    {
+      "fichier": "assets/bonus-4.webp",
+      "octets": 310012,
+      "sha256": "9c73f4089722980e6b2e779f70911dc05280972cc07cf257584777a546522d1b"
+    },
+    {
+      "fichier": "assets/bonus-5.webp",
+      "octets": 262264,
+      "sha256": "70e615a2da450b277895fbf113cabe1a5b3952ac942faec7be045fcd2915255c"
+    },
+    {
+      "fichier": "assets/mockup-complete-compact.webp",
+      "octets": 421618,
+      "sha256": "dbd3364f8960994fa179a8234e229b6c7931577fd3f4a0c3b5d3f2497baa05c1"
+    },
+    {
+      "fichier": "assets/mockup-fan.webp",
+      "octets": 501112,
+      "sha256": "1f74cea4fa51d5c07f0f9ad19ad523761bec5451bfdbc23778a60029eccf16db"
+    },
+    {
+      "fichier": "assets/sample-1.webp",
+      "octets": 295200,
+      "sha256": "9c8396afa03d7ccc188059feb3046cef399e957a56c9eee2d8f27abe33c7b586"
+    },
+    {
+      "fichier": "assets/sample-2.webp",
+      "octets": 419908,
+      "sha256": "959700645ffe69535c0a55ec49c58056fda4bbb914453be5a222f65165242e80"
+    },
+    {
+      "fichier": "assets/sample-3.webp",
+      "octets": 392622,
+      "sha256": "b8f0dfba53242a9b377aa1f225d16f4257614a983ccecdd1cb0ee364f8217d30"
+    },
+    {
+      "fichier": "assets/sample-4.webp",
+      "octets": 420754,
+      "sha256": "f3ace7b99ef0d27bfa778041f3d6cbf9f6b9ae32f98629f5615ba3c1c922314d"
+    },
+    {
+      "fichier": "assets/style.css",
+      "octets": 45274,
+      "sha256": "06d00c67134fa1f1fe81185e8b364e224b35a4a6ce0936b5eef7e4a043b37313"
+    },
+    {
+      "fichier": "assets/utmify.js",
+      "octets": 2131,
+      "sha256": "d964c1f75d198c73686cc5b58833c3fc1735fe258119795ab587fbc404ed65f4"
+    },
+    {
+      "fichier": "index.html",
+      "octets": 17974,
+      "sha256": "58704c953f252899bcfc542fb429351c7a20fbf512c056aff7b5e8b001bba674"
+    }
+  ]
+}
